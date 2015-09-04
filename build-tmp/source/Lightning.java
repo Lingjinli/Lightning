@@ -23,7 +23,7 @@ PImage img;
 public void setup()
 {
 	size(800,531);
-	img = loadImage("BIMMER.jpg");
+	img = loadImage("images/BIMMER.jpg");
 	background(img);
 	strokeWeight(5);
 	fill(255,255,0, 204);
